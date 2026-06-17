@@ -25,4 +25,4 @@ Currently pursuing B.E. Robotics and Artificial Intelligence.
 
 ### Contact
 LinkedIn: https://www.linkedin.com/in/prabhu-deva-0296ab386/
-Email: prabhudeva0509@gmail.com
+Email: devaprabhu0509@gmail.com
