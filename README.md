@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Prabhudeva R
+## Robotics & AI Student
+Currently pursuing B.E. Robotics and Artificial Intelligence.
+### Skills
+- Python
+- C++
+- ESP32
+- Arduino
+- MATLAB
+- Simulink
+- Git & GitHub
 
-<!--
-**PRABHUDEVA3016/prabhudeva3016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Learning
+- ROS2
+- Machine Learning
+- Robotics Software Engineering
 
-Here are some ideas to get you started:
+###future intrest
+- java script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- SmartAgri ML
+- ESP32 Sensor Monitoring
+- Stepper Motor Automation
+
+### Contact
+LinkedIn: https://www.linkedin.com/in/prabhu-deva-0296ab386/
+Email: prabhudeva0509@gmail.com
